@@ -1,0 +1,292 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"varia",
+				"variabe2"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"st",
+				"style"
+			],
+			[
+				"a",
+				"avisoLicencia"
+			],
+			[
+				"ar",
+				"archivoHerramientas"
+			],
+			[
+				"op",
+				"opcionesViaje"
+			],
+			[
+				"te",
+				"textoFinal"
+			],
+			[
+				"t",
+				"turismorural"
+			],
+			[
+				"n",
+				"numeroPantalla"
+			],
+			[
+				"m",
+				"Multiplicacion"
+			],
+			[
+				"re",
+				"Resta"
+			],
+			[
+				"el",
+				"el_resultado"
+			],
+			[
+				"nu",
+				"numeroPantalla"
+			],
+			[
+				"bo",
+				"boton7"
+			],
+			[
+				"mi",
+				"minombre"
+			],
+			[
+				"cua",
+				"cuadroNombre"
+			],
+			[
+				"cuadr",
+				"cuadroApellido"
+			],
+			[
+				"cuad",
+				"cuadroPass"
+			],
+			[
+				"cuadro",
+				"cuadroNombre"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Enable Debug Mode"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: aling",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/User/Documents/Python Projects/Loops/counting_to_twenty.py",
+		"/C/Users/User/AppData/Roaming/StardewValley/startup_preferences",
+		"/C/Users/User/AppData/Roaming/StardewValley/default_options",
+		"/C/Users/User/Documents/Python Projects/Lists/every_function.py",
+		"/C/Users/User/Documents/Python Projects/Lists/dinner_guests.py",
+		"/C/Users/User/Documents/Python Projects/Lists/seeing_the_world.py",
+		"/C/Users/User/Documents/Python Projects/Lists/more_guests.py",
+		"/C/Users/User/Documents/Python Projects/Lists/shrinking_guest_list.py",
+		"/C/Users/User/Documents/Python Projects/Lists/changing_guest_list.py",
+		"/C/Users/User/Documents/Python Projects/Lists/guest_list.py",
+		"/C/Users/User/Documents/Python Projects/Lists/your_own_list.py",
+		"/C/Users/User/Documents/Python Projects/Lists/greetings.py",
+		"/C/Users/User/Documents/Python Projects/Lists/names.py",
+		"/C/Users/User/Documents/Python Projects/simple_messages.py",
+		"/C/Users/User/Documents/Python Projects/name_cases.py",
+		"/C/Users/User/Documents/Python Projects/apostrophe.py",
+		"/C/Users/User/Documents/Python Projects/favorite_number.py",
+		"/C/Users/User/Documents/Python Projects/number_eight.py",
+		"/C/Users/User/Documents/Python Projects/stripping_names.py",
+		"/C/Users/User/Documents/Python Projects/famous_quote_2.py",
+		"/C/Users/User/Documents/Python Projects/famous_quote.py",
+		"/C/Users/User/Documents/Python Projects/personal_message.py",
+		"/C/Users/User/Documents/Python Projects/Simple Message.py",
+		"/C/Users/User/Downloads/Compressed/trabajo_operadores.php",
+		"/C/wamp/www/Curso PHP/segunda_pagina.php",
+		"/C/wamp/www/Curso PHP/validacion.php",
+		"/C/wamp/www/Curso PHP/index.php",
+		"/C/Users/User/Documents/Python Projects/documento.html",
+		"/C/Users/User/Documents/Python Projects/proyecto2.py",
+		"/C/Users/User/Documents/Python Projects/proyecto.py",
+		"/C/Users/User/Documents/practicaCalculadora.py",
+		"/C/Users/User/Documents/document.py",
+		"/C/Users/User/Desktop/Among.Us.v2021.6.30s/Among.Us.v2021.6.30s/Among Us_Data/il2cpp_data/etc/mono/config",
+		"/C/Users/User/Desktop/Among.Us.v2021.6.30s/Among.Us.v2021.6.30s/Among Us_Data/il2cpp_data/Resources/System.Data.dll-resources.dat",
+		"/C/Users/User/Documents/prueba_modulos.py",
+		"/C/Users/User/Documents/project.py",
+		"/C/Users/User/AppData/Roaming/Sublime Text/Packages/Anaconda/Anaconda.sublime-settings",
+		"/C/Users/User/AppData/Roaming/Sublime Text/Packages/User/Anaconda.sublime-settings"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 68.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 151.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

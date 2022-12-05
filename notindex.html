@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<meta charset="UTF-8">
+	<link rel="shortcut icon" href="src/logo_upt_bolivar.ico" type="image/x-icon">
+	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+	<link rel="stylesheet" href="css/estilos.css">
+	<title>copia - Jesús Muñoz</title>
+</head>
+<body>
+		<header class="row container-md-12 p-3 text-center text-bg-primary align-items-center" id="cabecera">
+			<div class="col-md-2"><img class="img-fluid" src="src/logo_upt_bolivar.png" alt="Logo UPT Bolívar" title="Logo UPT Bolívar"></div>
+			<div class="col-md-3"><img class="img-fluid" src="src/gobierno_bolivariano.png" alt="Logo Gobierno Bolivariano de Venezuela" title="Gobierno Bolivariano de Venezuela"></div>
+			<hgroup class="col-md-5">
+				<h2 class="h3">Ministerio del Poder Popular para la Educación Universitaria</h2>
+				<h1 class="h2">Universidad Politécnica Territorial del Estado Bolívar</h1>
+			</hgroup>
+			<div class="col-md-2"><img class="img-fluid" src="src/logo_pnf_informatica.png" alt="Logo PNF en Informática" title="Logo PNF Informática"></div>
+		</header>
+		
+		<nav id="menu">
+			<ul class="row">
+				<li class="col-md-2"><a href="#">Opción menú #1</a></li>
+				<li class="col-md-2"><a href="#">Opción menú #2</a></li>
+				<li class="col-md-2"><a href="#">Opción menú #3</a></li>
+				<li class="col-md-2"><a href="#">Opción menú #4</a></li>
+				<li class="col-md-2"><a href="#">Opción menú #5</a></li>
+			</ul>
+		</nav>
+		
+		<section class="d-flex" id="principal">
+			<div class="bg-primary" id="formulario">
+				<p><span>Ingrese sus datos:</span></p>
+				<form action="(url a donde se mandan los datos)" method="POST">
+					<ul class="casillas">
+						<li class="d-flex justify-content-between">
+							<label for="nombre">Ingrese su nombre:</label>
+							<input type="text" id="nombre" name="nombre" placeholder="Nombre">
+						</li>
+						<li class="d-flex justify-content-between">
+							<label for="cedula">Ingrese su cédula:</label>
+							<input type="number" name="cedula" id="cedula" placeholder="Cédula">
+						</li>
+						<li class="d-flex justify-content-between">
+							<label for="genero">Seleccione su género:</label>
+							<select name="genero" id="genero">
+								<option value="hombre">Hombre</option>
+								<option value="mujer">Mujer</option>
+								<option value="otros">Otros</option>
+							</select>
+						</li>
+						<li class="d-flex justify-content-between">
+							<label for="pnf">Seleccione su PNF:</label>
+							<select name="pnf" id="pnf" placeholder="Seleccione su PNF">
+								<option value="electricidad">Electricidad</option>
+								<option value="informatica">Informática</option>
+								<option value="geociencias">Geociencias</option>
+								<option value="materiales">Ing. Materiales</option>
+								<option value="quimica">Química</option>
+								<option value="mecanica">Mecánica</option>
+							</select>
+						</li>
+						<li class="d-flex justify-content-between">
+							<label for="correo">Ingrese su correo:</label>
+							<input type="email" name="correo" id=correo placeholder="Correo">
+						</li>
+						<li class="d-flex justify-content-between">	
+							<label for="telefono">Ingrese su teléfono:</label>
+							<input type="tel" id="telefono" placeholder="Teléfono">
+						</li>
+						<li>
+							<input id="crear_usuario" type="submit" value="Crear Usuario">
+						</li>
+					</ul>
+				</div>
+			</form>
+		
+			<div id="alineacion_lateral">
+				<div id="inicio_sesion">
+					<div><figure><img class="img-fluid" src="src/1946429.png" alt="icono_usuario"></figure></div>
+					<form action="">
+						<ul class="usuario_contrasena">
+							<li>
+								<label for="contrasena">Usuario:</label>
+								<input name="contrasena" type="text">
+							</li>
+							<li>
+								<label for="usuario">Contraseña:</label>
+								<input name="usuario" type="password">
+							</li>
+						</ul>
+					</form>
+				</div>
+
+				<aside id="barra_lateral">
+					<ul>
+						<li><a href="" class="enlace_redes">Link de Facebook</a></li>
+						<li><a href="" class="enlace_redes">Link de Instagram</a></li>
+						<li><a href="" class="enlace_redes">Link de Tik Tok</a></li>
+					</ul>
+				</aside>
+			</div>
+		</section>
+
+		<footer class="text-center" id="pie_de_pagina">
+			<span>[Información legal de la de página]</span>
+			<span>Todos los derechos reservados - Jesús Muñoz - <time>2022</time></span>
+		</footer>
+		<script src="js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
